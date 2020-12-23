@@ -1,1 +1,2 @@
-# simple-game
+# random-string-generator 
+This project 
